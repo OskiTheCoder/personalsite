@@ -368,23 +368,97 @@ h5 {
   background-color: #fa8231 !important;
 }
 
-.logo-img {
-  height: 75px;
-}
-
 .logo-rows {
-  padding-bottom: 35px;
-  padding-left: 100px;
+  padding-bottom: 30px;
+  padding-right: 20px;
+  padding-left: 20px;
 }
 
-.list-group {
-  padding-left: 75px;
-  width: 90%;
+.btn-primary, .btn-primary:active, .btn-primary:visited {
+    background-color: #68A063 !important;
+    border-color: #5758BB !important;
 }
 
-.list-group-item {
-  padding-bottom: 20px;
+.btn-primary:hover {
+    background-color: #303030 !important;
+    transition: all 1s ease;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
 }
+
+.btn-secondary, .btn-secondary:active, .btn-secondary:visited {
+    background-color: #6ab04c !important;
+    border-color: #5758BB !important;
+}
+
+.btn-secondary:hover {
+    background-color: #34495e !important;
+    transition: all 1s ease;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+}
+
+.btn-success, .btn-success:active, .btn-success:visited {
+    background-color: #30336b !important;
+    border-color: #5758BB !important;
+}
+
+.btn-success:hover {
+    background-color: #7ed6df !important;
+    transition: all 1s ease;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+}
+
+.btn-danger, .btn-danger:active, .btn-danger:visited {
+    background-color: #8e44ad !important;
+    border-color: #5758BB !important;
+}
+
+.btn-danger:hover {
+    background-color: #9b59b6 !important;
+    transition: all 1s ease;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+}
+
+.btn-warning, .btn-warning:active, .btn-warning:visited {
+    background-color: #7f8c8d !important;
+    border-color: #5758BB !important;
+}
+
+.btn-warning:hover {
+    background-color: #ecf0f1 !important;
+    transition: all 1s ease;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+}
+
+.btn-dark, .btn-dark:active, .btn-dark:visited {
+    background-color: #e67e22 !important;
+    border-color: #5758BB !important;
+}
+
+.btn-dark:hover {
+    background-color: #ffbe76 !important;
+    transition: all 1s ease;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+}
+
+
 
 .active-project-title {
   font-weight: bolder;
